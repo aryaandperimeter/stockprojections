@@ -5,7 +5,7 @@
 ## Tech Sector Focus: Apple, Amazon, Microsoft, Google, and NVIDIA
 
 ## Research Question 
-**What are the most significant factors influencing stock price fluctuations within the technology sector, and how can we use these to project future prices?**
+**What are the most significant factors influencing stock price fluctuations within the technology sector from the past 5 years, and how can we use these to project future prices?**
 
 ---
 
