@@ -1,6 +1,8 @@
 # Project Plan for Stock Price Projection in the Technology Sector
 
-## Research Question
+## Deadline: Nov 19, 2024. 11:59pm
+
+## Research Question 
 **What are the most significant factors influencing stock price fluctuations within the technology sector, and how can we use these to project future prices?**
 
 ---
