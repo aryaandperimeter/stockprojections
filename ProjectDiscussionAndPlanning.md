@@ -72,6 +72,6 @@
 ---
 
 ## Timeline Summary
-- **Week 1**: Setup and Initial Research, Data Collection and Cleaning
-- **Week 2**: EDA, Modeling, Testing and Evaluation,
+- **Week 1**: Setup and Initial Research, Data Collection and Cleaning, EDA
+- **Week 2**: Modeling, Testing and Evaluation,
 - **Week 3**:  Documentation and Presentation, Final Review and Submission
