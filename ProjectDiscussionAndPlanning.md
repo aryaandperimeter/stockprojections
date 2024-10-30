@@ -2,6 +2,8 @@
 
 ## Deadline: Nov 19, 2024. 11:59pm
 
+## Tech Sector Focus: Apple, Amazon, Microsoft, Google, and NVIDIA
+
 ## Research Question 
 **What are the most significant factors influencing stock price fluctuations within the technology sector, and how can we use these to project future prices?**
 
