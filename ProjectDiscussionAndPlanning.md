@@ -2,10 +2,10 @@
 
 ## Deadline: Nov 19, 2024. 11:59pm
 
-## Tech Sector Focus: Apple, Amazon, Microsoft, Google, and NVIDIA
+## Tech Sector Focus: FAANG
 
 ## Research Question 
-**What are the most significant factors influencing stock price fluctuations within the technology sector from the past 5 years, and how can we use these to project future prices?**
+**Can we develop a model to predict short-term price movements for FAANG stocks based on historical price patterns, volume, and volatility indicators?**
 
 ---
 
