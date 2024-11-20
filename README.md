@@ -4,7 +4,7 @@ Stock Market Analysis and Projections (Crashes, Performance, etc.)
 Members:
 Arya Sharma - Created Regression and classification models for project
 
-Vasudha Gupta - Ppt presentation + assisted with creating new features for models
+Vasudha Gupta - Ppt presentation + Assisted with creating new features for models
 
 Jake Vinkemulder - Data Cleaning + Ppt presentation
 
